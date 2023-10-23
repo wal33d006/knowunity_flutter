@@ -1,0 +1,3 @@
+class TodoListInitialParams {
+  const TodoListInitialParams();
+}

@@ -1,0 +1,3 @@
+class CreateTodoInitialParams {
+  const CreateTodoInitialParams();
+}
